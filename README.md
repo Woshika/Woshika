@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **wkavindi016@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
