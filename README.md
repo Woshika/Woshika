@@ -8,7 +8,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :school:  I am an undergraduate at `Faculty of Computer Science` at [Eastern University](https://www.tc.esn.ac.lk/).
 - :technologist:  Skilled in `React.js`, `MERN` stack, and `front-end` web development.
