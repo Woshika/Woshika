@@ -11,7 +11,7 @@
 
 <br><br>
 
-- :school:  I am an undergraduate at [Faculty of Computer Science] at [Eastern University].
+- :school:  I am an undergraduate at `Faculty of Computer Science` at [Eastern University](https://www.tc.esn.ac.lk/).
 - :technologist:  Skilled in `React.js`, `MERN` stack, and `front-end` web development.
 - :computer: Experienced in developing projects like `Jobify` and an `e-commerce shop` with advanced features..
 - :student: Currently enhancing my knowledge in `Quality Assurance` and `Software Engineering..`
