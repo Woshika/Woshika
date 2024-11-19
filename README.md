@@ -16,7 +16,7 @@
 - :computer: Experienced in developing projects like `Jobify` and an `e-commerce shop` with advanced features..
 - :student: Currently enhancing my knowledge in `Quality Assurance` and `Software Engineering..`
 - :nerd_face: Always excited to learn `new technologies` and `frameworks..`
-- :thinking: Open to internship opportunities in software development or quality assurance[MY RESUME](https://drive.google.com/file/d/1qk9sHIiRWRjUI2pJNQ4LYzwE4oti3REL/view?usp=sharing).
+- :thinking: Open to internship opportunities in software development or quality assurance [MY RESUME](https://drive.google.com/file/d/1qk9sHIiRWRjUI2pJNQ4LYzwE4oti3REL/view?usp=sharing).
 - :boom: You can connect with me at [GitHub](https://github.com/Woshika) or reach out via email at wkavindi016@gmail.com.
 <br>
 
