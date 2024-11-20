@@ -18,7 +18,7 @@
 - :thinking: Open to internship opportunities in software development or quality assurance [MY RESUME](https://drive.google.com/file/d/1qk9sHIiRWRjUI2pJNQ4LYzwE4oti3REL/view?usp=sharing).
 - :boom: You can connect with me at [GitHub](https://github.com/Woshika) or reach out via email at wkavindi016@gmail.com.
 <br>
-
+<br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
