@@ -101,7 +101,12 @@
 &emsp;
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white"></a>
 &emsp;
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+&emsp;
 <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop%20-%23001D34.svg?style=plastic&logo=adobe-photoshop&logoColor=white"></a>
+&emsp;
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0F1D.svg?style=plastic&logo=jira&logoColor=white"></a>
+
 &emsp;
 <a href="#"><img alt="JMeter" src="https://img.shields.io/badge/JMeter%20-%23D22128.svg?style=plastic&logo=apache-jmeter&logoColor=white"></a>
 </p>
