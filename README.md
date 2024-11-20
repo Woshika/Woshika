@@ -4,10 +4,9 @@
 </p>
 
 
-## <picture> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="![image](https://github.com/user-attachments/assets/29bb3c5c-d0bb-4c4a-8d36-4cd4c7824304)
- width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
