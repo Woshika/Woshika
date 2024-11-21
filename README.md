@@ -106,7 +106,7 @@
 <br>
 
 <p align="center">
-  	&emsp;
+&emsp;
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
@@ -123,18 +123,17 @@
 &emsp;
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=plastic&logo=mysql&logoColor=white"></a>
 &emsp;
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+&emsp;
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=plastic&logo=node.js&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="Chrome DevTools" src="https://img.shields.io/badge/Chrome%20DevTools%20-%23424242.svg?style=plastic&logo=google-chrome&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white"></a>
 &emsp;
-<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
-&emsp;
 <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop%20-%23001D34.svg?style=plastic&logo=adobe-photoshop&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0F1D.svg?style=plastic&logo=jira&logoColor=white"></a>
-
 &emsp;
 <a href="#"><img alt="JMeter" src="https://img.shields.io/badge/JMeter%20-%23D22128.svg?style=plastic&logo=apache-jmeter&logoColor=white"></a>
 </p>
