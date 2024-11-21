@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</p>
+<br>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Woshika&color=brightgreen" alt="profile_views" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-Quality%20Assurance-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+<hr>
 <h1 align="center">Hi , I'm Woshika Kavindi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=80&lines=Intern+Quality+Assurance+Engineer+@Wysheit;Computer+Science+Student;Always+learning+new+things"></a>
@@ -21,6 +36,9 @@
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+
+<br>
+
 <p align="center">
 	<a href="mailto:wkavindi016@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Woshika"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -34,7 +52,11 @@
 
 ## 🛠️ My Skills
 
+<br>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+
+<br>
 
 <p align="center"> 
   &emsp;
@@ -56,6 +78,9 @@
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+
+<br>
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -77,6 +102,8 @@
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
+<br>
+
 <p align="center">
   	&emsp;
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
@@ -113,6 +140,8 @@
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
+<br>
+
 <p align="center">
  &emsp;
 <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -127,6 +156,8 @@
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
+<br>
+
 <p align="center">
 &emsp;
 <a href="#"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank%20-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white"></a>
@@ -142,6 +173,8 @@
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
+<br>
+
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
@@ -151,5 +184,14 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   
 </p>
+<br>
 
-<br> 
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats
+
+<br>
+
+| ![Woshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woshika&show_icons=true&theme=tokyonight) | ![Woshika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Woshika&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woshika&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Woshika&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
